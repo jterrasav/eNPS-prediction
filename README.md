@@ -113,6 +113,12 @@ This project was developed as part of my **Bachelor’s Thesis (Trabajo de Fin d
 
 ---
 
+## 📄 Full Thesis Document
+
+The full Bachelor’s Thesis document is available
+
+---
+
 ## 📬 Contact
 
 If you have questions about the project, feel free to reach out.
